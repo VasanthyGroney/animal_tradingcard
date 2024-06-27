@@ -1,0 +1,21 @@
+
+.card {
+    width: 302px;
+    margin-top: 1cm;
+    padding: 0.5cm;
+    border: 1px solid black;
+    box-shadow: 5px 0 10px rgba(0.1, 0.1, 0.1, 0.1);
+    background-color: #006d75;
+}
+.text_div {
+border: 1px solid black;
+padding: 0.3cm;
+margin-top: 10px;
+}
+.text_div ul {
+    list-style: none;
+
+    padding: 0;
+.box-content p1{
+    font-style: italics;
+}
